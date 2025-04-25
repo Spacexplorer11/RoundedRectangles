@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Rounded Rectangles
+description: "his theme does what it says on the tin! Rounded rectangles! It uses CSS to make **every single square** have nice rounded edges, easy on your eyes!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
